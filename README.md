@@ -5,7 +5,7 @@ Statistical Machine Learning on sales data for various market. Comparison of Mac
 ## Author :
 
 - Aurélien Pardo [Linkedin](https://www.linkedin.com/in/aur%C3%A9lien-pardo-24a02324b/).
-- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/).
+- Julien Ducrey [Linkedin](https://www.linkedin.com/in/julien-ducrey-21jd/). Also on [Github](https://github.com/jducrey)
 
 
 ## Project Overview
