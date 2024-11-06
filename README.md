@@ -26,11 +26,11 @@ Each model is evaluated using common metrics (e.g., Mean Squared Error, R-square
 
 ## Contents
 
-**Data**: Retail sales data for multiple sales representatives, including various features impacting sales.
-**Scripts**:
-**Data Preprocessing**: Scripts for cleaning, encoding, and scaling the dataset.
-**Modeling**: Implementations of various machine learning models for comparison.
-**Evaluation**: Code to evaluate model performance using metrics and to visualize results.
+- **Data**: Retail sales data for multiple sales representatives, including various features impacting sales.
+- **Scripts**:
+- **Data Preprocessing**: Scripts for cleaning, encoding, and scaling the dataset.
+- **Modeling**: Implementations of various machine learning models for comparison.
+- **Evaluation**: Code to evaluate model performance using metrics and to visualize results.
 
 Jupyter notebook documenting the data analysis, preprocessing steps, model training, and evaluation.
 
