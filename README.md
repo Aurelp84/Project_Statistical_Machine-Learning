@@ -27,10 +27,9 @@ Each model is evaluated using common metrics (e.g., Mean Squared Error, R-square
 ## Contents
 
 - **Data**: Retail sales data for multiple sales representatives, including various features impacting sales.
-- **Scripts**:
 - **Data Preprocessing**: Scripts for cleaning, encoding, and scaling the dataset.
 - **Modeling**: Implementations of various machine learning models for comparison.
-- **Evaluation**: Code to evaluate model performance using metrics and to visualize results.
+- **Evaluation**: Code to evaluate model performance using metrics and to visualize results(K-fold cross validation).
 
 Jupyter notebook documenting the data analysis, preprocessing steps, model training, and evaluation.
 
@@ -50,6 +49,5 @@ To run this project, you need the following libraries in Python:
 
 Clone the repository:
 
-  git clone https://github.com/your-username/Project_Statistical_Machine-Learning.git
+  git clone https://github.com/Aurelp84/Project_Statistical_Machine-Learning.git
 
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
