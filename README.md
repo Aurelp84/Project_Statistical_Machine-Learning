@@ -49,5 +49,5 @@ To run this project, you need the following libraries in Python:
 
 Clone the repository:
 
-  git clone https://github.com/Aurelp84/Project_Statistical_Machine-Learning.git
+    git clone https://github.com/Aurelp84/Project_Statistical_Machine-Learning.git
 
